@@ -1,0 +1,1 @@
+This is a repo that I created to help me keep track of the toy problems that I have done. I have mostly been using Leetcode, but I will eventually link system design resources here as well.
