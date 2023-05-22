@@ -4,7 +4,7 @@ function threeSum(nums) {
 
 	if (nums.length < 3) return results
 
-  nums = nums.sort((a, b) => a - b)
+  nums.sort((a, b) => a - b)
 
 	for (let i = 0; i < nums.length - 2; i++) {
 		if (nums[i] > target) break
